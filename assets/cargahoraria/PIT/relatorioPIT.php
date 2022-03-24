@@ -175,6 +175,44 @@
 		          <th class="opcoes">Participação em programa de Pós-graduação em nível de mestrado ou doutorado como docente PERMANENTE (do IFCE ou outra IES com anuência)</th>
 		          <th class="quant"> ' . $_POST['t20'] . ' </th>
 		        </tr>
+<============================================================================>
+
+				<tr>
+		          <th class="opcoes">Coordenação ou participação em equipe de projeto de pesquisa aplicada, desenvolvimento ou inovação cadastrado na PRPI com fomento externo proveniente de parcerias ou convênios com empresas privadas</th>
+		          <th class="quant"> ' . $_POST['t21'] . ' </th>
+		        </tr>
+
+				<tr>
+		          <th class="opcoes">Líder de Grupo de Pesquisa devidamente homologado pela PRPI</th>
+		          <th class="quant"> ' . $_POST['t22'] . ' </th>
+		        </tr>
+
+				<tr>
+		          <th class="opcoes">Exercício da função de Editor(a)-chefe em periódico científico do IFCE</th>
+		          <th class="quant"> ' . $_POST['t23'] . ' </th>
+		        </tr>
+
+				<tr>
+		          <th class="opcoes">Participação em programa de Pós-graduação em nível de mestrado ou doutorado como docente PERMANENTE (do IFCE ou outra IES com anuência)</th>
+		          <th class="quant"> ' . $_POST['t24'] . ' </th>
+		        </tr>
+
+				<tr>
+		          <th class="opcoes">PRevisor de Periódicos ou Eventos Científicos</th>
+		          <th class="quant"> ' . $_POST['t25'] . ' </th>
+		        </tr>
+
+				<tr>
+		          <th class="opcoes">Coordenação de comitê de ética em pesquisa do IFCE</th>
+		          <th class="quant"> ' . $_POST['t26'] . ' </th>
+		        </tr>
+
+				<tr>
+		          <th class="opcoes">Participação como membro relator de comitê de ética em pesquisa do IFCE</th>
+		          <th class="quant"> ' . $_POST['t27'] . ' </th>
+		        </tr>
+<=============================================================================>
+				
 		    </table>
 
 			<br><h3>ATIVIDADES DE EXTENSÃO</h3> <!-- PARTE 7 -->
